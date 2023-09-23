@@ -1,0 +1,2 @@
+# smartechwebsite
+my first website
